@@ -1,4 +1,4 @@
-module github.com/caddy-dns/mailinabox
+module github.com/kiekerjan/caddy-dns_mailinabox
 
 go 1.21.0
 
